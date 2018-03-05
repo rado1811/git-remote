@@ -1,1 +1,1 @@
-hello WCS
+hello Wild Code School
